@@ -1,0 +1,11 @@
+# C++ compiled files
+*.exe
+*.out
+*.o
+test
+
+# Python files
+__pycache__/
+*.pyc
+.venv/
+venv/
