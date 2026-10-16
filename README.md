@@ -1,4 +1,4 @@
-# Lab 06 - C++ Git Assignment
+# Calculator - Feature Version
 
 ## Purpose
 This project demonstrates setting up a local Git repository, tracking C++ source files, managing ignored build artifacts, and pushing code to GitHub.
