@@ -1,4 +1,4 @@
-# Calculator - Main Version
+# Calculator - Main & Feature Combined
 
 ## Purpose
 This project demonstrates setting up a local Git repository, tracking C++ source files, managing ignored build artifacts, and pushing code to GitHub.
